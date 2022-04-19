@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\Admin\Desktop\Study\Cs\Bai2\Bai2\obj\Debug\Bai2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\bin\Debug\bai22.exe.config
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\bin\Debug\bai22.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\bin\Debug\bai22.pdb
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\obj\Debug\bai22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\obj\Debug\bai22.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\obj\Debug\bai22.pdb
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai22\bai22\obj\Debug\bai22.csprojAssemblyReference.cache

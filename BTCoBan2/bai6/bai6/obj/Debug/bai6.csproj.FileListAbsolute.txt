@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\bin\Debug\bai6.exe.config
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai6\bai6\obj\Debug\bai6.pdb

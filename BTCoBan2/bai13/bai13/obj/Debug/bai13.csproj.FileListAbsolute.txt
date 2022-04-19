@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\bin\Debug\bai13.exe.config
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\bin\Debug\bai13.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\bin\Debug\bai13.pdb
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\obj\Debug\bai13.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\obj\Debug\bai13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\obj\Debug\bai13.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai13\bai13\obj\Debug\bai13.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\bin\Debug\bai59.exe.config
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\bin\Debug\bai59.exe
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\bin\Debug\bai59.pdb
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\obj\Debug\bai59.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\obj\Debug\bai59.exe
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai59\bai59\obj\Debug\bai59.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\bin\Debug\bai47.exe.config
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\bin\Debug\bai47.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\bin\Debug\bai47.pdb
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\obj\Debug\bai47.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\obj\Debug\bai47.exe
+C:\Users\Admin\Desktop\Study\Cs\BT co ban 2\bai47\bai47\obj\Debug\bai47.pdb

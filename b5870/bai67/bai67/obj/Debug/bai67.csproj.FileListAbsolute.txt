@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\bin\Debug\bai67.exe.config
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\bin\Debug\bai67.exe
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\bin\Debug\bai67.pdb
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\obj\Debug\bai67.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\obj\Debug\bai67.exe
+C:\Users\Admin\Desktop\Study\Cs\b5870\bai67\bai67\obj\Debug\bai67.pdb
