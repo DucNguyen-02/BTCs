@@ -8,10 +8,10 @@ namespace btvidu
 {
     class Nguoi
     {
-        public string Fullname { get ; set ; }
-        public int Age { get; set; }
-        public string Job { get; set; }
-        public string ID { get; set; }
+        public string Fullname210 { get ; set ; }
+        public int Age210 { get; set; }
+        public string Job210 { get; set; }
+        public string ID210 { get; set; }
 
         public Nguoi()
         {
@@ -19,30 +19,30 @@ namespace btvidu
 
         public Nguoi(string fullname, int age, string job, string iD)
         {
-            Fullname = fullname;
-            Age = age;
-            Job = job;
-            ID = iD;
+            Fullname210 = fullname;
+            Age210 = age;
+            Job210 = job;
+            ID210 = iD;
         }
 
         public void Input()
         {
             Console.WriteLine("Nhap ho ten: ");
-            Fullname = Console.ReadLine();
+            Fullname210 = Console.ReadLine();
             Console.WriteLine("Nhap tuoi: ");
-            Age = Int32.Parse(Console.ReadLine());
+            Age210 = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Nhap nghe nghiep: ");
-            Job = Console.ReadLine();
+            Job210 = Console.ReadLine();
             Console.WriteLine("Nhap ID: ");
-            ID = Console.ReadLine();
+            ID210 = Console.ReadLine();
         }
 
         public void Display()
         {
-            Console.WriteLine("ho ten: "+ Fullname);
-            Console.WriteLine("tuoi: " + Age);
-            Console.WriteLine("nghe nghiep: " + Job);
-            Console.WriteLine("ID: " + ID);
+            Console.WriteLine("ho ten: "+ Fullname210);
+            Console.WriteLine("tuoi: " + Age210);
+            Console.WriteLine("nghe nghiep: " + Job210);
+            Console.WriteLine("ID: " + ID210);
         }
     }
 }

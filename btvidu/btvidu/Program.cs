@@ -10,10 +10,10 @@ namespace btvidu
     {
         static void Main(string[] args)
         {
-            KhuPho khuPho = new KhuPho();
-            khuPho.Input();
+            KhuPho khuPho210 = new KhuPho();
+            khuPho210.Input();
 
-            khuPho.Display();
+            khuPho210.Display();
 
             Console.ReadKey();
         }
